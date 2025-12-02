@@ -1,0 +1,37 @@
+key,value,comments
+Full Name,Vijay Kumar,Personal Information
+Date of Birth,"March 15, 1989",Personal Information
+Place of Birth,"Jaipur, Rajasthan",Personal Information
+Blood Group,O+,Personal Information
+First Job Start Date,"July 1, 2012",Began professional journey as Junior Developer
+First Job Role,Junior Developer,Role at first company
+First Job Annual Salary,"350,000 INR",Starting annual salary at first company
+Current Employer,Resse Analytics,Current professional employment
+Current Role,Senior Data Engineer,Role at Resse Analytics
+Current Role Start Date,"June 15, 2021",Start date in current role at Resse Analytics
+Current Annual Salary,"2,800,000 INR",Annual salary at Resse Analytics
+Previous Employer,LakeCorp Solutions,Prior professional employment
+Previous Job Start Date,"February 1, 2018",Start date at LakeCorp Solutions
+Previous Job End Year,2021,Employment at LakeCorp Solutions ended in 2021
+Previous Job Initial Role,Data Analyst,Starting role at LakeCorp Solutions
+Previous Job Promotion Year,2019,Received a promotion at LakeCorp Solutions in this year
+High School,"St. Xavier's School, Jaipur",Completed 12th standard education
+High School Completion Year,2007,Completed 12th standard
+High School Score,92.5%,Overall score in 12th standard
+B.Tech Degree,Computer Science,Bachelor of Technology
+B.Tech University,IIT Delhi,Institution for B.Tech
+B.Tech Graduation Year,2011,Graduation year for B.Tech
+B.Tech CGPA,8.7,CGPA achieved in B.Tech
+M.Tech Degree,Data Science,Master of Technology
+M.Tech University,IIT Bombay,Institution for M.Tech
+M.Tech Graduation Year,2013,Graduation year for M.Tech
+M.Tech CGPA,9.2,CGPA achieved in M.Tech
+Certification,AWS Solutions Architect,Earned in 2019 with a score of 920/1000
+Certification,Azure Data Engineer,Earned in 2020 with 875 points
+Certification,Project Management Professional (PMP),Earned in 2021 with an 'Above Target' rating
+Certification,SAFe Agilist,Earned with a 98% score
+Technical Skill,SQL,Proficiency: 10/10
+Technical Skill,Python,Proficiency: 9/10
+Technical Skill,Machine Learning,Proficiency: 8/10
+Technical Skill,Cloud Platforms,Proficiency: 9/10 (includes AWS and Azure)
+Technical Skill,Data Visualization,Proficiency: 8/10 (using Power BI and Tableau)
